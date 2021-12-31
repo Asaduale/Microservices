@@ -1,6 +1,6 @@
-# spotify-microservices
+# Microservices
 
-An oversimplified version of Spotify using microservices to query and modify data in a graph database as well as establish communication between two microservices.
+An oversimplified version of Spotify to establish communication between two microservices. Using Java Spring Boot to create REST APIs as well as query and modify data in a graph database. 
 
 Functionality includes:<br>
 Users can follow/unfollow other users and their favourites playlist. <br>
