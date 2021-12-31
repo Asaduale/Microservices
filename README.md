@@ -1,6 +1,6 @@
 # spotify-microservices
 
-A microservice based application imitating Spotify backend functionality for CSC301. Created microservices for Profiles and Songs using Spring, MongoDB, and Neo4J. 
+An oversimplified version of Spotify using microservices to query and modify data in a graph database as well as establish communication between two microservices.
 
 Functionality includes:<br>
 Users can follow/unfollow other users and their favourites playlist. <br>
